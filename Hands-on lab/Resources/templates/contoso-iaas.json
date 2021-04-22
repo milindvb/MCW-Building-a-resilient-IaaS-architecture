@@ -103,7 +103,7 @@
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "[concat(variables('baseUri'), 'templates/vnet.json')]",
+                    "uri": "https://github.com/milindvb/MCW-Building-a-resilient-IaaS-architecture/blob/master/Hands-on%20lab/Resources/templates/vnet.json",
                     "contentVersion": "1.0.0.0"
                 },
                 "parameters": {
